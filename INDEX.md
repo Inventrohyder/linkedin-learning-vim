@@ -7,7 +7,7 @@
 - hello.go
 - hello.py
 - license-header.txt
-- light.txt
+- light.txt:2
 - new.txt
 - perfect.txt
 - persistence.txt
