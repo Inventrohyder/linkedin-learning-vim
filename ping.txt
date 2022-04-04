@@ -1,0 +1,8 @@
+Ping www.vim.org:
+ 
+PING vhost.osdn.io (44.237.4.221): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+
+--- vhost.osdn.io ping statistics ---
+3 packets transmitted, 0 packets received, 100.0% packet loss
