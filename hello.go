@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello Vim')
+	fmt.Println("Hello Vim")
 }
