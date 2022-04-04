@@ -11,3 +11,6 @@
 
 ## Wake Up
 
+The key to waking up is keeping your eyes open...
+
+## Exercise
